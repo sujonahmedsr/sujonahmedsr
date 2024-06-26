@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shofiqul Islam</h1>
+<h1 align="center">Hi 👋, I'm Shofiqul Islam Sujon</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **javascript, python, c#, java and php**
+- 🌱 I’m currently learning **javascript, React js, Next js, MERN Stack**
 
 - 📫 How to reach me **sujonahmedst@gmail.com and shofiqul.sujon2021@gmail.com**
 
