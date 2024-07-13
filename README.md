@@ -1,6 +1,6 @@
-### Hi there 👋, I am Shofiqul Islam Sujon
-#### I am a Front end web developer (MERN)
 ![I am a Front end web developer (MERN)](https://i.ibb.co/TRyyBd8/frontend.jpg)
+# Hi there 👋, I am Shofiqul Islam Sujon
+### I am a Front end web developer (MERN)
 
 I am a passionate and creative Front-End Web Developer. I also know the back end. I know some technologies of web development such as HTML, CSS, Javascript and React. I completed some awesome full-stack projects.
 
