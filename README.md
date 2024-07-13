@@ -4,16 +4,16 @@
 
 I am a passionate and creative Front-End Web Developer. I also know the back end. I know some technologies of web development such as HTML, CSS, Javascript and React. I completed some awesome full-stack projects.
 
-## Skills:
-✅ REACT
-✅ JAVASCRIPT
-✅ TAILWIND
-✅ HTML
-✅ CSS
-✅ NEXT JS
-✅ MONGODB
-✅ EXPRESS JS
-✅ NODE JS
+## Skills & Experience:
+✅ REACT <br>
+✅ JAVASCRIPT <br>
+✅ TAILWIND <br>
+✅ HTML <br>
+✅ CSS <br>
+✅ NEXT JS <br>
+✅ MONGODB <br>
+✅ EXPRESS JS <br>
+✅ NODE JS <br>
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javscript, Next js, Redux, Typescript 
