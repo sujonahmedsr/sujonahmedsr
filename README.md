@@ -1,4 +1,4 @@
-![I am a Front end web developer (MERN)]
+I am a Front end web developer (MERN)
 # Hi there 👋, I am Shofiqul Islam Sujon
 ### I am a Front end web developer (MERN)
 
