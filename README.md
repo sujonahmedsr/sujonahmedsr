@@ -5,15 +5,17 @@ I am a Front end web developer (MERN)
 I am a passionate and creative Front-End Web Developer. I also know the back end. I know some technologies of web development such as HTML, CSS, Javascript and React. I completed some awesome full-stack projects.
 
 ## Skills & Experience:
-✅ REACT <br>
-✅ JAVASCRIPT <br>
-✅ TAILWIND <br>
 ✅ HTML <br>
 ✅ CSS <br>
-✅ NEXT JS <br>
+✅ TAILWIND CSS <br>
+✅ JAVASCRIPT <br>
+✅ REACT <br>
+✅ REDUX TOOLKIT & RTK QUERY <br>
 ✅ MONGODB <br>
+✅ MONGOOSE <br>
 ✅ EXPRESS JS <br>
 ✅ NODE JS <br>
+✅ NEXT JS <br>
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javscript, Next js, Redux, Typescript 
@@ -32,7 +34,12 @@ I am a passionate and creative Front-End Web Developer. I also know the back end
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujonahmedsr&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/sujonahmedsr)  
+## GitHub Stats
+![Shofi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujonahmedsr&show_icons=true&theme=radical)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sujonahmedsr)  
+## Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=sujonahmedsr&theme=radical)
+
+## Contribution Graph
+![Shofi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sujonahmedsr&theme=react-dark)
 
