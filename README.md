@@ -32,14 +32,9 @@ I am a passionate and creative Front-End Web Developer. I also know the back end
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujonahmedsr)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujonahmedsr&show_icons=true)  
-
-## GitHub Stats
 ![Shofi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujonahmedsr&show_icons=true&theme=radical)
 
-## Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=sujonahmedsr&theme=radical)
+![GitHub Streak](https://streak-stats.herokuapp.com?username=sujonahmedsr&theme=radical)
 
-## Contribution Graph
 ![Shofi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sujonahmedsr&theme=react-dark)
 
