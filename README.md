@@ -4,8 +4,6 @@ I am a Front end web developer (MERN)
 
 I am a passionate and creative Front-End Web Developer. I also know the back end. I know some technologies of web development such as HTML, CSS, Javascript and React. I completed some awesome full-stack projects.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujonahmedsr&label=Profile%20views&color=0e75b6&style=flat" alt="sujonahmedsr" /> </p>
-
 ## Skills & Experience:
 ✅ HTML <br>
 ✅ CSS <br>
@@ -34,11 +32,12 @@ I am a passionate and creative Front-End Web Developer. I also know the back end
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujonahmedsr)](https://github.com/anuraghazra/github-readme-stats)
 
-![Shofi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujonahmedsr&show_icons=true&theme=radical)
+# ⚡Git Stats ⚡
+<div align="center">
+  ![Shofi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujonahmedsr&show_icons=true&theme=radical)
 
-![Shofi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujonahmedsr&show_icons=true&theme=radical)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujonahmedsr" alt="sujonahmedsr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujonahmedsr&" alt="sujonahmedsr" /></p>
+</div>
 
 ![Shofi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sujonahmedsr&theme=react-dark)
 
