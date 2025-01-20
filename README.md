@@ -36,7 +36,9 @@ I am a passionate and creative Front-End Web Developer. I also know the back end
 
 ![Shofi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujonahmedsr&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujonahmedsr&" alt="sujonahmedsr" /></p>
+![Shofi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujonahmedsr&show_icons=true&theme=radical)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujonahmedsr" alt="sujonahmedsr" /></p>
 
 ![Shofi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sujonahmedsr&theme=react-dark)
 
