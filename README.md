@@ -1,73 +1,154 @@
-I am a Front end web developer (MERN)
-# Hi there 👋, I am Shofiqul Islam Sujon
-### I am a Front end web developer (MERN)
-
-I am a passionate and creative Front-End Web Developer. I also know the back end. I know some technologies of web development such as HTML, CSS, Javascript and React. I completed some awesome full-stack projects.
-
-## Skills & Experience:
-✅ HTML <br>
-✅ CSS <br>
-✅ TAILWIND CSS <br>
-✅ JAVASCRIPT <br>
-✅ REACT <br>
-✅ REDUX TOOLKIT & RTK QUERY <br>
-✅ MONGODB <br>
-✅ MONGOOSE <br>
-✅ EXPRESS JS <br>
-✅ NODE JS <br>
-✅ NEXT JS <br>
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Javscript, Next js, Redux, Typescript 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: shofiqul.sujon2021@gmail.com 
-
-(https://sjnr.netlify.app/)  
-
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+# 👋 Hi, I'm Shofiqul Islam Sujon
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" width="33" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" width="33" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" width="33" alt="next logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="28" width="33" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" width="33" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28" width="33" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" width="33" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="28" width="33" alt="firebase logo"  />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" width="33" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" width="33" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" width="33" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="28" width="33" alt="graphql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" width="33" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="28" width="33" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="28" width="33" alt="yarn logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="28" width="33" alt="socketio logo"  />
+
+### Frontend Developer | Shopify Developer | React & Next.js Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;Shopify+Theme+Developer;React+%26+Next.js+Developer;Building+Fast+%26+Scalable+E-commerce+Experiences" />
+
 </div>
 
+---
 
+## 🚀 About Me
 
-###
+I'm a passionate **Frontend Web Developer** with professional experience in **Shopify Theme Development** and modern JavaScript frameworks.
 
-<h3 align="left">🔥   My Stats :</h3>
+I specialize in creating **high-performance, responsive, SEO-friendly, and conversion-focused websites** using React, Next.js, and Shopify Liquid.
 
-###
+Alongside frontend development, I also have experience building full-stack applications with the MERN stack and enjoy turning ideas into polished digital products.
 
-<br clear="both">
+---
+
+## 💼 Current Focus
+
+- 💻 Frontend Developer (React & Next.js)
+- 🛍 Shopify Theme Development
+- ⚡ Shopify Performance Optimization
+- 🎨 Responsive & Pixel Perfect UI
+- 📈 CRO Focused E-commerce Development
+- 🚀 Modern Web Applications
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,figma" />
+</p>
+
+### Shopify
+
+- Shopify Liquid
+- Custom Shopify Sections
+- Shopify Theme Customization
+- Shopify Theme Performance Optimization
+- Responsive Shopify Development
+- App Integration
+- AJAX Cart
+- Metafields
+- Schema
+- Shopify CLI
+
+---
+
+# ✨ What I Do
+
+✅ Build Modern React Applications
+
+✅ Develop Shopify Stores
+
+✅ Create Custom Shopify Sections
+
+✅ Convert Figma to Shopify
+
+✅ Build Responsive Websites
+
+✅ Improve Core Web Vitals
+
+✅ Optimize Website Speed
+
+✅ Build MERN Stack Projects
+
+✅ Fix Frontend Bugs
+
+✅ SEO Friendly Development
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced TypeScript
+- Next.js App Router
+- Server Components
+- Shopify Hydrogen
+- GraphQL
+- AI Integration
+- Advanced Performance Optimization
+
+---
+
+# 🤝 Open to Collaborate
+
+I'm always interested in working on
+
+- Shopify Projects
+- React Projects
+- Next.js Applications
+- SaaS Products
+- Open Source
+- Startup Ideas
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sujonahmedsr&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujonahmedsr&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujonahmedsr&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+**shofiqul.sujon2021@gmail.com**
+
+🌐 **Portfolio**
+
+https://shofiqul81.vercel.app/
+
+💼 **GitHub**
+
+https://github.com/sujonahmedsr
+
+---
 
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujonahmedsr&amp;theme=dark" height="163em" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujonahmedsr&amp;theme=dark" style="max-width: 100%;">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujonahmedsr&amp;theme=dark" height="163em" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujonahmedsr&amp;theme=dark" style="max-width: 100%;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujonahmedsr&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dark&amp;locale=en&amp;hide_border=false&amp;order=1" height="163em" alt="stats graph" data-canonical-src="https://github-readme-stats.vercel.app/api?username=sujonahmedsr&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dark&amp;locale=en&amp;hide_border=false&amp;order=1" style="max-width: 100%;">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujonahmedsr&amp;theme=dark" height="163em" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujonahmedsr&amp;theme=dark" style="max-width: 100%;">
+
+### 💙 Thanks for visiting my profile!
+
+*"Clean Code • Better Performance • Better User Experience"*
+
 </div>
-
-###
-
