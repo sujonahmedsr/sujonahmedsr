@@ -1,5 +1,5 @@
 # 👨‍💻 Shofiqul Islam Sujon
-### Full-Stack Engineer & Shopify Specialist
+### Full-Stack Developer & Shopify Specialist
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shofiqdev81.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://shofiqdev81.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-shofiqul.sujon2021@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shofiqul.sujon2021@gmail.com)
